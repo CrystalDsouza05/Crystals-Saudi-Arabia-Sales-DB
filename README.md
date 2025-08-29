@@ -12,6 +12,7 @@ fully in **Arabic**.
 -   Dashboard translated into Arabic using **AI-powered translation**
 -   Provides insights into:
     -   Total Sales
+    -   Average Sales
     -   Daily Revenue Trends
     -   Top Products by Revenue
     -   Regional Performance
