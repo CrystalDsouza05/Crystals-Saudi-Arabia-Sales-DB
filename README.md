@@ -9,7 +9,7 @@ fully in **Arabic**.
 
 ## 🎯 Key Highlights
 
--   Dashboard translated into Arabic using **AI-powered translation**\
+-   Dashboard translated into Arabic using **AI-powered translation**
 -   Provides insights into:
     -   Total Sales
     -   Daily Revenue Trends
