@@ -6,6 +6,7 @@ This project was created as part of an **online Saudi Arabia Data
 Challenge**. Deadline - 5th September 2025 \
 The goal was to design an interactive **Sales Dashboard** and present it
 fully in **Arabic**. 
+
 [Click here for the challenge post on LinkedIn](https://www.linkedin.com/posts/ali-alshahrani-a784b2322_aesaevaesaeyaesabraepaesaeqaeyaepaeuaepaes-activity-7366226411239514112-1N32?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEVwMREB1Po3tFZCb322XZL3IAJT_htZhnc)
 
 ## 🎯 Key Highlights
