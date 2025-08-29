@@ -3,7 +3,7 @@
 ## 📊 Project Overview
 
 This project was created as part of an **online Saudi Arabia Data
-Challenge**.\
+Challenge**. Deadline - 5th September 2025
 The goal was to design an interactive **Sales Dashboard** and present it
 fully in **Arabic**.
 
